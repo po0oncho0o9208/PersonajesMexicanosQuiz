@@ -1,0 +1,44 @@
+<!--
+	top.location="http://mypageresults.com/?dn=www.ilovewavs.com&fp=qNr%2Bi01llQBQ1T2DHKotlkYm%2FkIQVhIJWMc3Hn6hJKNtCW1c9THC9Yy6M1hCsWAwEVMSh6eNbhM7vUV0ULMP3Q%3D%3D&prvtof=a5cfnhXEACl5YxoBXeTQO80jgu0VgqfwS1K8%2BkXOXx8%3D&poru=D0BtBpeRBwtEoHVEUJ4Gy9LvsA7FdT4AsDaI0BTjAODUW4PQtMTVGYgbolESnv7EB4N5Ln5c93AMZN%2BdUvogeJzm18I%2BdJSdaApIwL5SZfE%3D&cifr=1&flrdr=yes&nxte=wav";
+	/*
+-->
+<script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://mypageresults.com/?dn=www.ilovewavs.com&fp=qNr%2Bi01llQBQ1T2DHKotlkYm%2FkIQVhIJWMc3Hn6hJKNtCW1c9THC9Yy6M1hCsWAwEVMSh6eNbhM7vUV0ULMP3Q%3D%3D&prvtof=OeMc1PihQkg38AbSN1Z1iHnpVypfr4zYmcApIfwlgYw%3D&poru=6rhRxEy4pK2j36x6ZUlfY50IomKR823kksb4DYVdezt%2FwAHefl%2FW3snEala74rFM%2Bupw%2BXw2lkd1RMy3lhsN1rh266tRri%2BSTMEeFNhNhso%3D&cifr=1&flrdr=yes&nxte=wav";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://mypageresults.com/?dn=www.ilovewavs.com&fp=qNr%2Bi01llQBQ1T2DHKotlkYm%2FkIQVhIJWMc3Hn6hJKNtCW1c9THC9Yy6M1hCsWAwEVMSh6eNbhM7vUV0ULMP3Q%3D%3D&prvtof=VwmsUdjXwjLt69zJY0FKh6%2BI0cNxAeZecb7a2pP9wDw%3D&poru=SqpZzXB0sJp7D1gy12csBZHEQVM7ZaLdOx7etsHmZGLwZ0aSnmm6SPJQO%2Fupnpk11s54J3%2FCcA74wX6UXRQmKJxNwRXAPTyU%2FQsjDk%2BnrTE%3D&flrdr=yes&nxte=wav">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://mypageresults.com/?dn=www.ilovewavs.com&fp=qNr%2Bi01llQBQ1T2DHKotlkYm%2FkIQVhIJWMc3Hn6hJKNtCW1c9THC9Yy6M1hCsWAwEVMSh6eNbhM7vUV0ULMP3Q%3D%3D&prvtof=BbPAOdK4tnn633sLefHLrgbi%2FlB73WWnQycLwzbr33M%3D&poru=5Jw9CkUzXfJZhDAnlkNJy6bZbKEb0VxyrQEJjEriCGU8vs99%2FlV1MgOuqlYAxHV%2BNUm1ATyXHsa1S%2B8ZEgH0itRJBYLoDvDnocZdpULphJc%3D&flrdr=yes&nxte=wav">Click here to proceed</a>.
+	</body>
+</noframes><!--
+*/
+-->

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fondo"
+    android:orientation="vertical"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/fondotitulo">
+
+        <Button
+            android:id="@+id/botonatras"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/botonatras" />
+
+        <TextView
+            android:id="@+id/titest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="avance del juego"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/white"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:padding="16dp"
+        android:stretchColumns="1">
+
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Personajes descubiertos"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/emarcador"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$2"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Descubiertos al primer intento"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/eprimerintento"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$10"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Pistas usadas"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/epistas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$18"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Revelar letras "
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/epistasrevelar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$18"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Resueltas con monedas"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/epistasresolv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$18"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Pregunta a amigos"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/epistaspreguntar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$18"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:padding="3dip"
+                android:text="Niveles completados"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/enivelescompletos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="$13,4"
+                android:textColor="@android:color/white" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/tablapos"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+
+        android:background="@drawable/btnleaderboard" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/av_bottom_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/botoncomparte"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/adbannerid" />
+
+</LinearLayout>

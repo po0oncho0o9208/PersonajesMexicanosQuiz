@@ -1,0 +1,15 @@
+<Motion xmlns:geom="flash.geom.*" duration="1" xmlns="fl.motion.*">
+    <source>
+        <Source elementType="text" frameRate="24" rotation="0" scaleX="1" scaleY="1" x="237.45"
+            y="265.4">
+            <dimensions>
+                <geom:Rectangle height="110.3" left="-2" top="-2" width="240.95" />
+            </dimensions>
+            <transformationPoint>
+                <geom:Point x="0.499896244034032" y="0.5" />
+            </transformationPoint>
+        </Source>
+    </source>
+
+    <Keyframe index="0" />
+</Motion>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fondo"
+    android:orientation="vertical"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/fondotitulo">
+
+        <Button
+            android:id="@+id/botonatras"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/botonatras" />
+
+        <TextView
+            android:id="@+id/textopciones"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="Opciones"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/white"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_gravity="center|top"
+        android:gravity="center|top">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:gravity="center|top"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/checkboxsonido"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout1"
+
+                android:layout_marginTop="30dp"
+                android:layout_weight="1"
+                android:text="sonido"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="10pt" />
+
+            <CheckBox
+                android:id="@+id/checkboxvibrar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/checkboxsonido"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:text="vibrar"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="10pt" />
+
+            <Button
+                android:id="@+id/botoncomojugar"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/checkboxvibrar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/marcoredondo"
+                android:text="como jugar"
+                android:textColor="@android:color/white"
+                android:textSize="8pt" />
+
+            <Button
+                android:id="@+id/botonreestablecer"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/botoncomojugar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/marcoredondo"
+                android:text="Reestablecer"
+                android:textColor="@android:color/white"
+                android:textSize="8pt" />
+
+            <Button
+                android:id="@+id/botoncalifica"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/botonreestablecer"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/marcoredondo"
+                android:text="calificanos"
+                android:textColor="@android:color/white"
+                android:textSize="8pt" />
+
+            <Button
+                android:id="@+id/botoncomparte"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/botoncalifica"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/marcoredondo"
+                android:text="comparte si te gusto"
+                android:textColor="@android:color/white"
+                android:textSize="6pt" />
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/av_bottom_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@+id/botoncomparte"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/adbannerid" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+    Google Play game services IDs.
+    Save this file as res/values/games-ids.xml in your project.
+    -->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">1012736136768</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.toposdeus.personajesmexicanos</string>
+    <!-- achievement Principiante I -->
+    <string name="achievement_principiante_i" translatable="false">CgkIwKyc3rwdEAIQAA</string>
+    <!-- achievement Intermedio I -->
+    <string name="achievement_intermedio_i" translatable="false">CgkIwKyc3rwdEAIQAQ</string>
+    <!-- achievement Experto I -->
+    <string name="achievement_experto_i" translatable="false">CgkIwKyc3rwdEAIQAg</string>
+    <!-- achievement ¿Estas en apuros? -->
+    <string name="achievement_estas_en_apuros" translatable="false">CgkIwKyc3rwdEAIQAw</string>
+    <!-- achievement Pregunton -->
+    <string name="achievement_pregunton" translatable="false">CgkIwKyc3rwdEAIQBA</string>
+    <!-- achievement Compartenos -->
+    <string name="achievement_compartenos" translatable="false">CgkIwKyc3rwdEAIQBQ</string>
+    <!-- achievement Perfeccionista I -->
+    <string name="achievement_perfeccionista_i" translatable="false">CgkIwKyc3rwdEAIQBg</string>
+    <!-- achievement Perfeccionista II -->
+    <string name="achievement_perfeccionista_ii" translatable="false">CgkIwKyc3rwdEAIQBw</string>
+    <!-- achievement Perfeccionista III -->
+    <string name="achievement_perfeccionista_iii" translatable="false">CgkIwKyc3rwdEAIQCw</string>
+    <!-- achievement Avaro I -->
+    <string name="achievement_avaro_i" translatable="false">CgkIwKyc3rwdEAIQCA</string>
+    <!-- achievement Volviendo a empezar -->
+    <string name="achievement_volviendo_a_empezar" translatable="false">CgkIwKyc3rwdEAIQDA</string>
+    <!-- achievement ¿estas demente? -->
+    <string name="achievement_estas_demente" translatable="false">CgkIwKyc3rwdEAIQDQ</string>
+    <!-- leaderboard Conocedores de la fama -->
+    <string name="leaderboard_conocedores_de_la_fama" translatable="false">CgkIwKyc3rwdEAIQEA</string>
+</resources>

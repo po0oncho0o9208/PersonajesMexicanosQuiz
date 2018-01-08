@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "1012736136768",
+    "firebase_url": "https://personajes-mexicanos-quiz-7734.firebaseio.com",
+    "project_id": "personajes-mexicanos-quiz-7734",
+    "storage_bucket": "personajes-mexicanos-quiz-7734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012736136768:android:ee6a6207e63ff2dc",
+        "android_client_info": {
+          "package_name": "com.toposdeus.personajesmexicanos"
+        }
+      },
+      "oauth_client": [
+
+        {
+          "client_id": "1012736136768-j3qkel5gfrep267dj3fvljn5c62prnq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toposdeus.personajesmexicanos",
+            "certificate_hash": "df3efb26094f45b6a066cf2237fe549c20fbd798"
+          }
+        },
+        {
+          "client_id": "1012736136768-1t2228qnr8b0qn1kuhkg1mivqfc6f8as.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1012736136768-hvtrn6sbivcus5huf3li2a47a44vgv6a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1012736136768-lr2ecqtm99ssqkkroh6euelvtulop27k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzPlQiSKXyqAKBa4IW6NjPfCKOTrIKAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012736136768-1t2228qnr8b0qn1kuhkg1mivqfc6f8as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

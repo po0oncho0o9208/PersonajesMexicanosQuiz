@@ -1,0 +1,730 @@
+<resources>
+    <string name="app_name">Personajes Mexicanos Quiz</string>
+    <string name="prefsonidostring">true</string>
+    <string name="nivel">nivel</string>
+    <string name="puntuacion">puntuacion</string>
+    <string name="comparteapp">Comparte si te gusto</string>
+    <string name="checamasapp">Checa mas aplicaciones</string>
+    <string name="calificaapp">Danos Tu Opinion</string>
+    <string name="flecha1">-</string>
+    <string name="flecha2">-</string>
+    <string name="quiz">quiz</string>
+    <string name="quizresuelto">quizresuelto</string>
+    <string name="revelar">revelar</string>
+    <string name="pista">pista</string>
+    <string name="marcador">marcador</string>
+    <string name="prefvibrarstring">vibrar</string>
+    <string name="coin">coin</string>
+    <string name="puntos">puntos</string>
+    <string name="intento">intento</string>
+    <string name="intento2">intento2</string>
+    <string name="marcadorperf">marcadorperf</string>
+    <string name="preguntar">preguntar</string>
+    <string name="xp">xp</string>
+    <string name="comparte">comparte</string>
+    <string name="pistaresolv">pistaresolv</string>
+    <string name="adbannerid">ca-app-pub-1984616735532779/8703534146</string>
+    <string name="adinterid">ca-app-pub-1984616735532779/8536136897</string>
+    <string name="adbannerid1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="adinterid1">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string-array name="nombresnivel1">
+        <item>chapulin colorado</item>
+        <item>lopez obrador</item>
+        <item>pedro infante</item>
+        <item>el vitor</item>
+        <item>hugo sanchez</item>
+        <item>kalimba</item>
+        <item>ana guevara</item>
+        <item>adal ramones</item>
+        <item>lolita ayala</item>
+        <item>diego luna</item>
+        <item>werevertumorro</item>
+        <item>paulina rubio</item>
+        <item>carlos slim</item>
+        <item>el buki</item>
+        <item>el santo</item>
+
+
+    </string-array>
+
+    <string-array name="nombresnivel2">
+        <item>vicente fernandez</item>
+        <item>anahi</item>
+        <item>enrique bermudez</item>
+        <item>cuauhtemoc cardenas</item>
+        <item>carmen salinas</item>
+        <item>venustiano carranza</item>
+        <item>rigo tovar</item>
+        <item>enrique peña nieto</item>
+        <item>paquita la del barrio</item>
+        <item>eugenio derbez</item>
+        <item>lorena ochoa</item>
+        <item>jorge negrete</item>
+        <item>escorpion dorado</item>
+        <item>guillermo del toro</item>
+        <item>jose ramon fernandez</item>
+
+    </string-array>
+
+    <string-array name="nombresnivel3">
+        <item>flaco ibañez</item>
+        <item>gael garcia</item>
+        <item>jorge campos</item>
+        <item>resortes</item>
+        <item>roberto palazuelos</item>
+        <item>cantinflas</item>
+        <item>javier Hernandez</item>
+        <item>jorge ortiz de pinedo</item>
+        <item>julio cesar chavez</item>
+        <item>manuel valdes</item>
+        <item>capulina</item>
+        <item>chabelo</item>
+        <item>fernando platas</item>
+        <item>franco escamilla</item>
+        <item>carlos santana</item>
+
+    </string-array>
+
+    <string-array name="nombresnivel4">
+        <item>brozo</item>
+        <item>el chapo</item>
+        <item>irma serrano</item>
+        <item>ninel conde</item>
+        <item>gustavo diaz ordaz</item>
+        <item>julieta venegas</item>
+        <item>rafael marquez</item>
+        <item>luis miguel</item>
+        <item>don ramon</item>
+        <item>lucero</item>
+        <item>diego fernandez de cevallos</item>
+        <item>alex lora</item>
+        <item>cepillin</item>
+        <item>francisco gonzalez bocanegra</item>
+        <item>tintan</item>
+
+
+    </string-array>
+
+    <string-array name="nombresnivel5">
+        <item>moctezuma</item>
+        <item>francisco i madero</item>
+        <item>francisco villa</item>
+        <item>frida kahlo</item>
+        <item>lazaro cardenas</item>
+        <item>emiliano zapata</item>
+        <item>josefa ortiz de dominguez</item>
+        <item>cuahutemoc</item>
+        <item>miguel hidalgo</item>
+        <item>diego rivera</item>
+        <item>porfirio diaz</item>
+        <item>benito juarez</item>
+        <item>salinas de gortari</item>
+        <item>sor juana ines de la cruz</item>
+        <item>jose maria morelos</item>
+    </string-array>
+
+    <string-array name="nombresnivel6">
+        <item>eiza gonzalez</item>
+        <item>valentino lanus</item>
+        <item>mayrin villanueva</item>
+        <item>susana gonzalez</item>
+        <item>nora salinas</item>
+        <item>mauricio castillo</item>
+        <item>jaime camil</item>
+        <item>martha higareda</item>
+        <item>fernando colunga</item>
+        <item>eduardo santamarina</item>
+        <item>paty navidad</item>
+        <item>daniel bisogno</item>
+        <item>roxana castellanos</item>
+        <item>yordi rosado</item>
+        <item>aaron diaz</item>
+    </string-array>
+
+    <string-array name="nombresnivel7">
+        <item>juan gabriel</item>
+        <item>jenny rivera</item>
+        <item>ana barbara</item>
+        <item>valentin elizalde</item>
+        <item>thalia</item>
+        <item>joan sebastian</item>
+        <item>susana zabaleta</item>
+        <item>aleks syntek</item>
+        <item>yuri</item>
+        <item>emmanuel</item>
+        <item>armando manzanero</item>
+        <item>jose jose</item>
+        <item>ximena sariñana</item>
+        <item>antonio aguilar</item>
+        <item>alejandra guzman</item>
+
+    </string-array>
+
+    <string-array name="nombresnivel8">
+        <item>pirruris</item>
+        <item>omar chaparro</item>
+        <item>doña lucha</item>
+        <item>jorge falcon</item>
+        <item>albertano</item>
+        <item>india maria</item>
+        <item>polo polo</item>
+        <item>pajara peggy</item>
+        <item>platanito</item>
+        <item>compayito</item>
+        <item>quico</item>
+        <item>andres bustamante </item>
+        <item>facundo</item>
+        <item>teo gonzalez</item>
+        <item>eduardo manzano</item>
+    </string-array>
+
+    <string-array name="nombresnivel9">
+        <item>abismo negro</item>
+        <item>tinieblas</item>
+        <item>atlantis</item>
+        <item>rey misterio</item>
+        <item>averno</item>
+        <item>rayo de jalisco</item>
+        <item>blue daemon</item>
+        <item>parka</item>
+        <item>octagon</item>
+        <item>blue panther</item>
+        <item>mistico</item>
+        <item>dr wagner</item>
+        <item>mil mascaras</item>
+        <item>mascara sagrada</item>
+        <item>matematico</item>
+
+    </string-array>
+    <string-array name="nombresnivel10">
+        <item>aislinn derbez</item>
+        <item>damian alcazar</item>
+        <item>ana claudia talancon</item>
+        <item>aaron diaz</item>
+        <item>barbara mori</item>
+        <item>camila sodi</item>
+        <item>martha higareda</item>
+        <item>carlos bonavides</item>
+        <item>edith gonzalez</item>
+        <item>eduardo yañez</item>
+        <item>gabriel soto</item>
+        <item>kate del castillo</item>
+        <item>kuno becker</item>
+        <item>luis gerardo mendez</item>
+        <item>salma hayek</item>
+    </string-array>
+
+    <string-array name="pistanombresnivel1">
+        <item>c_ap_ _i_  c_l_r_ _o</item>
+        <item>l_p_z  o_ _a_ _r</item>
+        <item>P_ _r_ _n_a_ _e</item>
+        <item>e_  v_t_ _</item>
+        <item>H_g_ S_n_ _e_</item>
+        <item>K_ _i_ _a</item>
+        <item>A_a  G_ _v_r_</item>
+        <item>_d_l R_m_ _e_</item>
+        <item>L_ _it_ A_a_a</item>
+        <item>d_e_o  l_n_</item>
+        <item>w_ _ e _ _ r  t_ m_ _ r _</item>
+        <item>p_ _ l _n_  r_ b_ o</item>
+        <item>_ a_ l_ s  sl_ _</item>
+        <item>m_ _c_  a_ t_ n_ _  s_ _is</item>
+        <item>e_  s_ n _ o</item>
+
+    </string-array>
+
+    <string-array name="pistanombresnivel2">
+        <item>V_ _e_ _e F_ _n_ _d_z</item>
+        <item>A_ _h_</item>
+        <item>E_ _i_ _e B_ _m_ _ _z</item>
+        <item>Cu_ _ _te_ _c Ca_ _e_ _s</item>
+        <item>Ca_ _ _n S_ _i_ _s</item>
+        <item>Ve_ _st_ _no c_ _r_ _z_</item>
+        <item>R_ _o T_ _ _r</item>
+        <item>_ _ri_ _e P_ _a N_ _to</item>
+        <item>P_q_ _ _a _a d_l B_r_ _o</item>
+        <item>E_ _e_ _o D_r_ez</item>
+        <item>L_r_n_ O_h_a</item>
+        <item>J_rg_ N_gr_t_</item>
+        <item>e_c_r_ _o_  d_r_d_ </item>
+        <item>g_i_ _e_m_  d_l  t_ _o</item>
+        <item>j_s_  r_ _o_  f_r_n_ _ d_ z</item>
+    </string-array>
+
+    <string-array name="pistanombresnivel3">
+        <item>Ma_ _ _l Iba_ _z</item>
+        <item>G_el G_r_i_</item>
+        <item>J_r_e Ca_mpo_s</item>
+        <item>r_s_r_t_s</item>
+        <item>R_be_t_ P_l_zu_l_s</item>
+        <item>c_n_i_f_a_</item>
+        <item>J_vi_r H_rn_nd_z</item>
+        <item>Jo_g_ O_t_z d_ P_n_d_</item>
+        <item>j_l_o  c_s_r  c_a_ _z</item>
+        <item>M_nu_l V_ld_s</item>
+        <item>c_p_l_n_</item>
+        <item>c_a_e_o</item>
+        <item>f_er_a_ _o  p_a_a_</item>
+        <item>f_a_c_  e_c_m_ll_</item>
+        <item>_a_l_s  s_ _ _a_a</item>
+    </string-array>
+
+    <string-array name="pistanombresnivel4">
+        <item>B_o_o</item>
+        <item>el _h_p_</item>
+        <item>I_m_ S_rr_n_</item>
+        <item>N_n_l C_nd_</item>
+        <item>G_st_v_ D__z _rd_z</item>
+        <item>J_ _i_ _a V_ _ _gas</item>
+        <item>R_f_ _l M_r_ _ez</item>
+        <item>L_i_ M_g_el</item>
+        <item>D_n  R_m_n</item>
+        <item>L_c_r_</item>
+        <item>Di_go F_rn_nd_z de C_v_ll_s</item>
+        <item>a_e_  l_r_</item>
+        <item>c_ p_ _ l_ n</item>
+        <item>Fr_nc_sc_ G_nz_l_z B_c_n_gr_</item>
+        <item>G_rm_n V_ld_s</item>
+    </string-array>
+
+    <string-array name="pistanombresnivel5">
+        <item>M_ct_z_m_a</item>
+        <item>Fr_nc_s_o _ _ad_r_</item>
+        <item>F_a_c_s_o V_l_a</item>
+        <item>F_i_a _al_o</item>
+        <item>L_z_r_ C_r_e_as</item>
+        <item>_m_l_a_o _ap_t_</item>
+        <item>J_s_f_ O_t_z de D_m_n_ue_</item>
+        <item>Cu_h_te_m_oc</item>
+        <item>M_g_e_ H_d_l_o</item>
+        <item>_i_g_ R_v_r_</item>
+        <item>p_ r_ i_ i_   D_a_</item>
+        <item>B_n_t_ J_ar_z</item>
+        <item>S_ l_ n_ s  de  g_ r_ a_ i</item>
+        <item>_o_ _u_n_ I_e_ d_ _a C_u_</item>
+        <item>J_s_ M_r_a M_r_l_s y P_v_n</item>
+
+    </string-array>
+
+    <string-array name="pistanombresnivel6">
+        <item>e_ z_  g_n_a_e_</item>
+        <item>va_ _n_i_o  l_n_s</item>
+        <item>m_y_i_  v_l_a_u_v_</item>
+        <item>_u_a_a  go_z_l_z</item>
+        <item>n_r_   s_l_n_s</item>
+        <item>_a_r_c_o  c_s_il_o</item>
+        <item>j_i_e  c_m_l</item>
+        <item>m_r_h_  h_g_r_d_</item>
+        <item>f_r_a_d_  c_l_n_a</item>
+        <item>e_u_r_o  s_n_a_a_i_a</item>
+        <item>p_t_  n_v_d_d</item>
+        <item>d_n_e_   _i_o_n_</item>
+        <item>r_x_n_  _a_t_l_a_o_</item>
+        <item>y_r_i  r_s_d_</item>
+        <item>a_r_n  d_a_</item>
+
+    </string-array>
+
+
+    <string-array name="pistanombresnivel7">
+        <item>j_an g_br_ _l</item>
+        <item>Je_i R_ _era</item>
+        <item>an_ ba_ _ara</item>
+        <item>V_len_ _n E_i_ _lde</item>
+        <item>T_ _lía</item>
+        <item>Jo_n s_ _bas_ _an</item>
+        <item>S_ _a_a _ab_ _eta</item>
+        <item>A_e_s  S_ _t_k</item>
+        <item>_u_i</item>
+        <item>Em_n_ _l</item>
+        <item>a_m_n_o  m_n_a_e_o</item>
+        <item>_os_ j_ _e</item>
+        <item>X_ _ena Sa_ _ _ana</item>
+        <item>a_t_n_o  _g_i_a_</item>
+        <item>Ale_ _n_ _a G_ _m_n</item>
+    </string-array>
+
+    <string-array name="pistanombresnivel8">
+        <item>p_r_u_i_</item>
+        <item>o_a_  c_a_a_ro</item>
+        <item>_o_a  l_c_a</item>
+        <item>j_r_e  f_l_o_</item>
+        <item>a_b_r_a_o</item>
+        <item>i_d_a  m_r_a</item>
+        <item>p_l_  p_l_</item>
+        <item>p_j_r_  p_g_y</item>
+        <item>p_a_a_i_o</item>
+        <item>c_m_a_i_o</item>
+        <item>q_i_o</item>
+        <item>a_d_e_  b_s_a_a_t_ </item>
+        <item>_a_u_d_</item>
+        <item>t_o  g_n_a_e_</item>
+        <item>e_u_r_o  m_n_a_o</item>
+    </string-array>
+    <string-array name="pistanombresnivel9">
+        <item>a_i_m_  n_g_o</item>
+        <item>t_n_e_l_s</item>
+        <item>_t_a_t_s</item>
+        <item>r_y m_s_e_i_</item>
+        <item>a_e_n_</item>
+        <item>r_y_  _e j_l_s_o</item>
+        <item>-l_e _a_m_n</item>
+        <item>p_r_a</item>
+        <item>o_t_g_n</item>
+        <item>_l_e pa_t_e_</item>
+        <item>_i_t_c_</item>
+        <item>_r  _a_n_r</item>
+        <item>_i_  m_s_a_a_</item>
+        <item>m_s_a_a  _a_r_d_</item>
+        <item>m_t_m_t_c_</item>
+
+    </string-array>
+    <integer-array name="imagenesnivel1">
+        <item>@mipmap/chespiri</item>
+        <item>@mipmap/peje</item>
+        <item>@mipmap/pedroinf</item>
+        <item>@mipmap/vitor</item>
+        <item>@mipmap/pichichi</item>
+        <item>@mipmap/kalimba</item>
+        <item>@mipmap/anague</item>
+        <item>@mipmap/adal</item>
+        <item>@mipmap/lolita</item>
+        <item>@mipmap/diegoluna</item>
+        <item>@mipmap/werever</item>
+        <item>@mipmap/paulina</item>
+        <item>@mipmap/slim</item>
+        <item>@mipmap/marcoantonio</item>
+        <item>@mipmap/elsanto</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel2">
+        <item>@mipmap/chente</item>
+        <item>@mipmap/anahi400x400</item>
+        <item>@mipmap/bermudez400x400</item>
+        <item>@mipmap/cardenas2</item>
+        <item>@mipmap/carmensalinas2</item>
+        <item>@mipmap/venustianocarranzaa</item>
+        <item>@mipmap/rigotovar</item>
+        <item>@mipmap/pena</item>
+        <item>@mipmap/paquita</item>
+        <item>@mipmap/derbez2</item>
+        <item>@mipmap/lorenaochoa</item>
+        <item>@mipmap/jorgenegrete</item>
+        <item>@mipmap/escorpiond</item>
+        <item>@mipmap/guillermodeltoro</item>
+        <item>@mipmap/joseramon</item>
+
+
+    </integer-array>
+
+    <integer-array name="imagenesnivel3">
+        <item>@mipmap/flacoibaneza</item>
+        <item>@mipmap/gaelgarcia</item>
+        <item>@mipmap/jorgecamposssws</item>
+        <item>@mipmap/resortes</item>
+        <item>@mipmap/palazuelos</item>
+        <item>@mipmap/cantinflas</item>
+        <item>@mipmap/chicharito</item>
+        <item>@mipmap/jorgito</item>
+        <item>@mipmap/juliocesar</item>
+        <item>@mipmap/locovaldez</item>
+        <item>@mipmap/capulina</item>
+        <item>@mipmap/chabelo</item>
+        <item>@mipmap/fernandoplatas</item>
+        <item>@mipmap/francoescamilla</item>
+        <item>@mipmap/carlosantana</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel4">
+        <item>@mipmap/brozo400x400</item>
+        <item>@mipmap/chapoguzman400x400</item>
+        <item>@mipmap/irmaserrano</item>
+        <item>@mipmap/ninel</item>
+        <item>@mipmap/gustavodiasordaz400x400</item>
+        <item>@mipmap/julietavenegas400x400</item>
+        <item>@mipmap/rafamarquez</item>
+        <item>@mipmap/luismi</item>
+        <item>@mipmap/donramon400x400</item>
+        <item>@mipmap/lucerotel</item>
+        <item>@mipmap/jefediegoo400x400</item>
+        <item>@mipmap/alexlora</item>
+        <item>@mipmap/cepillin</item>
+        <item>@mipmap/bocanegra</item>
+        <item>@mipmap/tintan400x400</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel5">
+        <item>@mipmap/moctezuma</item>
+        <item>@mipmap/madero</item>
+        <item>@mipmap/franciscovilla</item>
+        <item>@mipmap/frida</item>
+        <item>@mipmap/lazarocardenas</item>
+        <item>@mipmap/zapata</item>
+        <item>@mipmap/josefa</item>
+        <item>@mipmap/cuahutemoc</item>
+        <item>@mipmap/hidalgo</item>
+        <item>@mipmap/diegorivera</item>
+        <item>@mipmap/porfiriodiaz</item>
+        <item>@mipmap/juarez</item>
+        <item>@mipmap/salinasdegortari</item>
+        <item>@mipmap/sorjuana</item>
+        <item>@mipmap/morelos</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel6">
+        <item>@mipmap/eizagonzalez</item>
+        <item>@mipmap/valentinolanus</item>
+        <item>@mipmap/mayrinvillanueva</item>
+        <item>@mipmap/susanagonzalez</item>
+        <item>@mipmap/norasalinas</item>
+        <item>@mipmap/mauriciocastillo</item>
+        <item>@mipmap/jaimecamil</item>
+        <item>@mipmap/marthahigareda</item>
+        <item>@mipmap/fernandocolunga</item>
+        <item>@mipmap/eduardosantamarina</item>
+        <item>@mipmap/patynavidad</item>
+        <item>@mipmap/danielbosogno</item>
+        <item>@mipmap/roxanacastellanos</item>
+        <item>@mipmap/yordirosado</item>
+        <item>@mipmap/arondiaz</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel7">
+        <item>@mipmap/juangabriel</item>
+        <item>@mipmap/jennirivera</item>
+        <item>@mipmap/anabarbara</item>
+        <item>@mipmap/valentinelizalde</item>
+        <item>@mipmap/thalia</item>
+        <item>@mipmap/joansebastian</item>
+        <item>@mipmap/susanazabaleta</item>
+        <item>@mipmap/alex</item>
+        <item>@mipmap/yuri</item>
+        <item>@mipmap/emanuel</item>
+        <item>@mipmap/armando</item>
+        <item>@mipmap/josejose</item>
+        <item>@mipmap/ximenasarinana</item>
+        <item>@mipmap/antonioaguilar</item>
+        <item>@mipmap/alejandraguzman</item>
+    </integer-array>
+
+    <integer-array name="imagenesnivel8">
+        <item>@mipmap/luisdealba</item>
+        <item>@mipmap/omarchaparro</item>
+        <item>@mipmap/maraescalante</item>
+        <item>@mipmap/jorgefalcon</item>
+        <item>@mipmap/albertano</item>
+        <item>@mipmap/indiamaria</item>
+        <item>@mipmap/polopolo</item>
+        <item>@mipmap/peggy</item>
+        <item>@mipmap/platanito</item>
+        <item>@mipmap/compayito</item>
+        <item>@mipmap/kiko</item>
+        <item>@mipmap/andresbust</item>
+        <item>@mipmap/facundo</item>
+        <item>@mipmap/teogonzalez</item>
+        <item>@mipmap/eduardomanzano</item>
+    </integer-array>
+
+
+    <integer-array name="imagenesnivel9">
+        <item>@mipmap/abismonegro</item>
+        <item>@mipmap/tinieblas</item>
+        <item>@mipmap/atlantis</item>
+        <item>@mipmap/reymisterio</item>
+        <item>@mipmap/averno</item>
+        <item>@mipmap/rayodejalisco</item>
+        <item>@mipmap/bluedemon</item>
+        <item>@mipmap/parka</item>
+        <item>@mipmap/octagon</item>
+        <item>@mipmap/bluepanther</item>
+        <item>@mipmap/mistico</item>
+        <item>@mipmap/drwagner</item>
+        <item>@mipmap/milmascaras</item>
+        <item>@mipmap/mascarasagrada</item>
+        <item>@mipmap/matematico</item>
+
+    </integer-array>
+
+    <integer-array name="imagenesnivel10">
+        <item>@mipmap/aislin</item>
+        <item>@mipmap/alcazar1</item>
+        <item>@mipmap/anaclaudiatlancon</item>
+        <item>@mipmap/arondiaz</item>
+        <item>@mipmap/barbaramori</item>
+        <item>@mipmap/bracamontes</item>
+        <item>@mipmap/camilasodi</item>
+        <item>@mipmap/carlosbonavides</item>
+        <item>@mipmap/edithgonzales</item>
+        <item>@mipmap/eduardoyanez</item>
+        <item>@mipmap/gabrielsoto</item>
+        <item>@mipmap/katedelcastillo</item>
+        <item>@mipmap/kunobecker</item>
+        <item>@mipmap/luisgerardomendez</item>
+        <item>@mipmap/salma</item>
+
+    </integer-array>
+
+    <string-array name="pistasnivel1">
+        <item>siempre acude al llamado de los más necesitados cuando estos dicen la frase ¡Oh! Y ahora, ¿Quién podrá defenderme?, es torpe y no posee superpoderes, aunque sí varios artefactos de apoyo como el chipote chillón, la chicharra paralizadora o las pastillas de chiquitolina.</item>
+        <item>El 11 de marzo de 2012, en el Teatro Metropólitan, tomó posesión cómo candidato oficial del partido Movimiento Ciudadano a la Presidencia de México en el próximo proceso electoral del 1 de julio, uno de los partidos que conforman el Movimiento Progresista.</item>
+        <item>Algunas de sus canciones más populares incluyen: Amorcito corazón, Cien años, Te quiero así, La que se fue, Ella, Paloma Querida, Maldita sea mi suerte, Por un amor, Mañana, Que te ha dado esa mujer, Mi cariñito, Dicen que soy mujeriego, entre otras. de compositores como: Manuel Esperon, Gilberto Parra Paz y José Alfredo Jiménez entre otros.</item>
+        <item>Chofer de microbus famoso por su muletilla pipipipipipiiiii se juega la lamina de su micro por las calles de la ciudad, eterno enamorado de la nacaranda. Conductor del programa 100 mexicanos dijieron</item>
+        <item>Exfutbolista y entrenador de fútbol mexicano. Es considerado como el mejor futbolista del siglo XX en CONCACAF y el número 26 del mundo.</item>
+        <item>Después de la desintegración de OV7, se da a conocer como solista con su disco Aerosoul publicado el 18 de mayo de 2004.</item>
+        <item>Tras su retiro del atletismo incursionó en la política. Fue candidata del PRD a jefa delegacional por la Delegación Miguel Hidalgo del Distrito Federal en las elecciones de 2009.</item>
+        <item>Además de su late show "Otro rollo", ha conducido diversos speciales como: Bailando por un sueño, Furia Musical, Desfile de Navidad con las Estrellas y Cantando por un sueño.</item>
+        <item>Después de los terremotos de México de 1985 creó la Fundación Sólo por Ayudar, a fin de dar un respaldo económico a miles de mexicanos.</item>
+        <item>En 1992 participó en su primera telenovela El abuelo y yo al lado de Gael García, en 2001 saltó al estrellato con Gael en la película Y tu mamá también, el  y Gael García son propietarios de Canana Films</item>
+        <item>Un bloguero que sube videos sobre cosas comunes o típicas de alguien que está cerca de su edad o cosas que le han pasado en su vida En 2016 participa en el doblaje de la película Tortugas Ninja 2: Fuera de las sombras, dando la voz a rocksteady.</item>
+        <item>Inició su carrera musical como integrante del grupo Timbiriche en 1981, su álbum debut, La chica dorada (1992) vendió un millón de unidades, participó como juez/coach en la segunda temporada del reality show de talentos La Voz... México en 2012</item>
+        <item>Se tituló como ingeniero civil en la UNAM, desde los años 80 ya era un empresario muy exitoso y uno de los más importantes de México y en 2015 ocupó el puesto número 15 de las personas más poderosas del mundo según la revista Forbes.</item>
+        <item>Fue fundador del grupo Los Bukis, del cual era la voz principal, productor y compositor. su sencillo ¿A dónde vamos a parar?, que además de ser elegido como tema principal de la telenovela Teresa producida por Televisa, en pocas semanas se logró ocupar los primeros puestos de popularidad en cadenas de radio y televisión de México y Latinoamérica </item>
+        <item>Desde los años 50 en México era un héroe popular y un símbolo de la justicia para las personas, paso de ser un luchador a un superheroe luchando contra brujas zombies y momias a puño limpio.</item>
+    </string-array>
+
+    <string-array name="pistasnivel2">
+        <item>Permaneció en la lista de popularidad con dos paquetes de grandes éxitos, Historia de un ídolo volumen 1, un álbum de 17 canciones presentado en el 2000 que incluye: Lastima Que Seas Ajena, Me Voy A Quitar De En Medio y Nos Estorbó La Ropa. Gracias a estas producciones recibió la certificación de doble platino de RIAA.</item>
+        <item>Antes de integrar Clase 406, se enfrentó a un grave trastorno alimenticio, denominada Anorexia nerviosa. Llegó a pesar unos 35 kilos, estando dentro y fuera de cinco diferentes centros de tratamiento, y siendo enviada a varios médicos y psicólogos de todo México.</item>
+        <item>Uno de los comentaristas deportivos más conocidos en México, ha participado en programas como "Mas deporte", "La jugada", de el canal 2 de televisa.</item>
+        <item>Fundador del Partido de la Revolución Democrática (PRD) es considerado líder moral del PRD y en amplios sectores de la población, se le ubica como el patriarca de ese partido político y tres veces candidato a la Presidencia de México.</item>
+        <item>Fue homenajeada en la ciudad de Guadalajara, Jalisco, por sus 50 años de trayectoria artística. Además de ser la empresaria número uno con la puesta en escena de Aventurera, que ha recorrido las principales plazas de la República Mexicana.</item>
+        <item>Participe importante de la promulgación de la Constitución el 5 de febrero de 1917.</item>
+        <item>Es considerado el padre de la música grupera y tropical, un pionero que introdujo instrumentos modernos a la dotación acostumbrada dentro de la música tropical y de la cumbia</item>
+        <item>El 15 de septiembre de 2005 rindió protesta como Gobernador del Estado de México en el Teatro México ante el poder legislativo estatal, autoridades y anteriores gobernadores. En el discurso de inicio de mandato, señaló como ejes rectores del gobierno que iniciaba la «seguridad económica, seguridad social y seguridad pública».</item>
+        <item>Se la considera como «la Reina del Pueblo» o «la Guerrillera del Bolero». En sus canciones se expresa en contra de la cultura machista, lo que la ha hecho popular especialmente en ciertas audiencias. Sus temas se caracterizan por denunciar la cultura y actitudes machistas e incluso en algunos casos por manifestar misandria.</item>
+        <item>En 2013 dirige y protagoniza la película No se aceptan devoluciones, a tan solo 9 días de su estreno rompe récord con la cinta mexicana con más espectadores; basada en la película KRAMER Vs KRAMER ganadora de 7 Óscares en 1979.</item>
+        <item>Anunció en abril de 2010 su retiro por tiempo indefinido del Golf Competitivo, es decir renunciaba como miembro activo de la LPGA, a tan solo 2 años de ingresar al Salón de la Fama y teniendo un inicio no muy bueno en los torneos que había disputado en el año.</item>
+        <item>En 1950 recibió la distinción como mejor actor por parte de la crítica en España, por la película Teatro Apolo, pese al recelo que durante la filmación provocó la interpretación de un actor mexicano en el nostálgico homenaje a la Zarzuela y al "género chico". Ése año se filma Tal para cual con Luis Aguilar y la cantante Rosa de Castilla. En 1953 protagonizó con el también cantante y actor Pedro Infante Dos tipos de cuidado, dirigida por Ismael Rodríguez, con lo cual concluiría su carrera cinematográfica.</item>
+        <item>hermano del conocido vlogger Werevertumorro. Es conocido mayormente por realizar como contenido vídeos con humor capcioso y negro. Cuenta con un canal secundario llamado peluche en el estuche el cual tiene como contenido trollear algunos famosos, y realizar algunas entrevistas a su fandom.</item>
+        <item>Fue cofundador del Festival de Cine de Guadalajara y creó la compañía de producción Tequila Gang.  ha dirigido una amplia variedad de películas, desde adaptaciones de cómics (como Hellboy y Blade II), hasta películas de terror y fantasía histórica.</item>
+        <item>En "Los Protagonistas", dedicados a transmitir copas mundiales y juegos olímpicos, trabajó desde 1990, durante el mundial de Italia con el comediante Víctor Trujillo (hasta Sydney 2000 debido a su posterior cambio a Televisa) y con Andrés Bustamante</item>
+    </string-array>
+
+    <string-array name="pistasnivel3">
+        <item>Su incursión en el Séptimo Arte lo convirtió en uno de los iconos de la comedia mexicana, gracias a películas como "Llegamos, los fregamos y nos fuimos", "Los peseros", "Los plomeros y las ficheras", "El rey de las ficheras", "La chica del alacrán de oro" y "Lagunilla mi barrio" y en los ultimos años en la serie "vecinos" como jorjais.</item>
+        <item>Es un actor mexicano de teatro, televisión y cine. Protagonizó las películas latinas candidatas a los Premios Óscar: Amores perros, Y tu mamá también, El crimen del padre Amaro, Diarios de motocicleta, Babel.</item>
+        <item>También conocido como "El Inmortal" Es considerado uno de los mejores porteros mexicanos de la historia. Además, defendió la portería de la selección mexicana durante dos mundiales consecutivos. Actualmente trabaja como comentarista para Televisión Azteca.</item>
+        <item>Fue un famoso actor y cómico mexicano, Conocido principalmente por su talento como comediante, y por su particular forma de bailar, por la cual se ganó su apodo. las películas que hizo fueron El rey de México, Al son del mambo, El beisbolista fenómeno.</item>
+        <item>Actor mexicano,es conocido por su participación en telenovelas como: La fea más bella, Pedro Barman, Salome, Beto "El Figurín". Es dueño de un hotel de lujo en Cancún.</item>
+        <item>Actor cómico mexicano. Se hizo célebre por su verborrea, que arrojaba un sin número de palabras carentes de significado. Todo un maestro de las evasivas y el no comprometerse con los juicios, mientras hacía duras críticas, los errores y los abusos de políticos y gobernantes de turno de México.</item>
+        <item>Es un futbolista mexicano. Juega de delantero y su club actual es el Manchester United de la Barclays Premier League de Inglaterra. El 26 de mayo del 2012 es nombrado embajador de la Unicef.</item>
+        <item>Es un productor, director, escritor, actor de teatro, actor de cine, televisión y comediante mexicano. Conocido por sus participaciones en Una familia de 10 (Placido López ), La Escuelita VIP , cero en conducta (jorgito del mazo geis), el Dr. Cándido Pérez .</item>
+        <item>Es un boxeador profesional mexicano. En la actualidad, es el Campeón de la Década de la OMB, título disputado en una épica pelea que ganó por nocaut contra el filipino Manny Pacquiao en diciembre del 2012.</item>
+        <item>Es un actor cómico mexicano. Es hermano de los actores Germán Valdés Tin Tan, Ramón Valdés. Reconocido por la particularidad de sus cejas. participo en alguna peliculas como: La pulquería (1981), Locos peligrosos (1957), Caperucita y Pulgarcito contra los monstruos (1962).</item>
+        <item>Fue un actor, comediante, músico, cantante, productor de cine y guionista mexicano, quien saltó a la fama cuando se asoció con Marco Antonio Campos creando el famoso dueto cómico. fue apodado El rey del humorismo blanco debido a que nunca utilizó palabras obscenas o situaciones de contenido para adultos en sus bromas.</item>
+        <item>Es un actor y comediante mexicano. Ha realizado un programa de concursos para niños desde el 6 de diciembre de 1968 el cual es transmitido por el Canal 2 de Televisa. En el año de 2012 ganó 2 Récords Guiness por la mayor trayectoria como conductor infantil durante 44 años y el mayor tiempo haciendo un solo personaje.</item>
+        <item>En 1990 ganó dos pruebas de dos en Alemania en la plataforma de 10 m, y en el mismo año logró obtener 3 medallas en los Juegos Centroamericanos y del Caribe en la Ciudad de México.  Durante los Juegos Olímpicos de Sydney 2000 ganó la medalla de plata en la plataforma de 3 metros. Después de un quinto lugar en los Juegos de Atenas 2004 decidió retirarse.</item>
+        <item>Conocido por sus shows de comedia, cuenta con un programa llamado "La Mesa Reñoña" realizado por sus compañeros de “La Diablo Squad” </item>
+        <item>Es considerado el 20º mejor guitarrista de todos los tiempos,1​ según la revista Rolling Stone. En 1970 populariza el tema de Tito Puente Oye cómo va. Conocido por su melodía "Black Magic Woman" conocida en México como "Mujer de magia negra" </item>
+    </string-array>
+
+    <string-array name="pistasnivel4">
+        <item>El payaso tenebroso, un payaso coloquial, dicharachero, indigente, decadente, crítico, alburero, conductor, periodista, actor de doblaje y analista político.</item>
+        <item>Líder de una organización internacional de droga llamada la Alianza de Sangre, también conocida como el Cártel de Sinaloa. Después del arresto de Osiel Cárdenas del Cártel del Golfo, Joaquín Guzmán se convirtió en el principal traficante de drogas de México. En 1993 fue detenido en Guatemala, pero ocho años después escapó de la prisión de máxima seguridad en el estado mexicano de Jalisco.</item>
+        <item>También fue senadora en un inicio por el PRD en el periodo de 1994 a 2000 pero renunció a su militancia en dicho partido convirtiéndose en senadora independiente. Fue el amante de Gustavo Díaz Ordaz durante su gobierno como presidente de México hasta su muerte y se atrevió a llevarle personalmente a los Pinos (residencia presidencial en México) una serenata acompañada de mariachi.</item>
+        <item>Desde 2007 es una de tres presentadoras del programa de televisión Desmadruga2 de Israel Jaitovich. En el 2008 formó parte del elenco de la telenovela "Fuego en la sangre" como "Rosario", por esta participación fue nominada a los premios TVyNovelas como "Mejor actriz co-estelar".</item>
+        <item>Durante su mandato, se enfrentó con dureza a los movimientos sociales, especialmente los estudiantiles, gestados dentro de la Universidad Nacional Autónoma de México y el Instituto Politécnico Nacional, por lo que ordenó desarticular las huelgas estudiantiles que culminaron en la matanza de la Plaza de las Tres Culturas.</item>
+        <item>A finales de 2003 lanzó el álbum Sí, en el cual colaboraron Coti y Cachorro López, grabándolo en Argentina y España. Hasta la fecha es su mayor éxito comercial, permitiéndose abarcar un mercado más amplio. Ha vendido más de un millón de copias y colocado las canciones «Andar Conmigo», «Lento» y «Algo Está Cambiando» como himnos de la música latina.</item>
+        <item>Debutó en la Primera División de México en 1996. Tuvo una temporada destacada en el Torneo Verano 1999 con el Atlas. Compuesto por un grupo mayoritariamente joven conocido como "los niños héroes", lograron llegar a la final en contra del Toluca, llevándolos a la tanda de penaltis. Al final Toluca se impuso en la tanda y se llevó el título.</item>
+        <item>Es uno de los cantantes latinos más reconocidos por la academia e stadounidense de la grabación y el más joven en obtener el premio, esto a los quince años de edad por un dueto con la cantante escocesa Sheena Easton en el tema «Me gustas tal como eres».</item>
+        <item>Viudo desempleado que vive junto a su hija, la Chilindrina, en el departamento Nº 72 de la vecindad del Chavo, famoso por frases como -me lleva el chanfle- o -nomas no te doy otra porque...-.</item>
+        <item>Comenzó su carrera desde muy pequeña, a los 10 años en los programas de variedades de televisión: "Alegrías de mediodía" y Chiquilladas de Televisa. Fue la anfitriona de los concursos de canto infantil "Juguemos a cantar" y "América ésta es tu canción".</item>
+        <item>El 14 de mayo de 2010 por la noche, desapareció al llegar a un rancho de su propiedad en el municipio de Pedro Escobedo, en el estado de Querétaro, según la Procuraduría General de la República; siendo localizado esa misma noche abandonado el vehículo en el cual se trasladaba, y en el que localizaron restos de sangre, en las cercanías de la población de Quintanares, en el mismo municipio.</item>
+        <item>Conocido por sus frases "Mama prende la grabadora... esta saliendo el TRI" y "¡Que Viva El Rock and Roll!" tiene exitos como "triste cancion de amor" "las piedras rodantes" entre otras</item>
+        <item>Estudió odontología en la ciudad de Monterrey y empezó a pintarse la cara de payaso para que los niños no le tuvieran miedo cuando les arreglaba sus dientes, tiene exitos  como "La feria de ...", "Tomás", "En un bosque de la china", "La gallina co-co-ua", </item>
+        <item>Fue un poeta lírico, dramaturgo, crítico teatral, orador y articulista potosino, autor de los versos del Himno Nacional Mexicano.</item>
+        <item>Su grabación más famosa fue la canción "Bonita", de Luis Arcaraz, quien alguna vez declaró que la mejor interpretación de su obra se la debía al cómico pachuco. Igual de memorable es su interpretación de "Contigo" en El rey del barrio, esta vez, buscando en la ficción de la historia, el corazón de Silvia Pinal. Es también famosa la canción "Cantando en el baño".</item>
+    </string-array>
+
+    <string-array name="pistasnivel5">
+        <item>Quinto emperador azteca. Derroto al rey de Tlatelolco. Extendió sus posesiones hacia las zonas de Guerrero, Hidalgo, Puebla y Oaxaca, y llegó a dominar todo el altiplano de Anáhuac.</item>
+        <item>Su oposición contra la dictadura de Porfirio Díaz le llevó a la cárcel (1910); se evadió a Texas y allí organizó la Revolución mexicana de 1910.</item>
+        <item>Su verdadero nombre es Doroteo Arango Arámbula. Se unió a Madero en su lucha contra la dictadura de Porfirio Díaz, y demostró una habilidad innata para la guerra.</item>
+        <item>Sufrió un gravísimo accidente que la obligó a una larga convalecencia, durante la cual aprendió a pintar, y que influyó con toda probabilidad en la formación del complejo mundo psicológico que se refleja en sus obras.</item>
+        <item>Bajo el lema «México para los mexicanos»,llevó adelante una política de nacionalizaciones, especialmente trascendente por lo que respecta al petróleo.</item>
+        <item>Elaboró en noviembre del 1911 el plan de Ayala, en el que declaraba a Madero incapaz de cumplir los objetivos de la revolución y anunciaba la expropiación de un tercio de las tierras de los terratenientes a cambio de una compensación.</item>
+        <item>Patriota mexicana y heroína de la independencia de México, conocida también por el apodo de la Corregidora de Querétaro.</item>
+        <item>Soberano azteca. Hijo de Ahuitzotl y primo de Moctezuma, fue el último tlatoani, rey azteca.</item>
+        <item>Considerado como el padre de la patria mexicana, fue el iniciador de la lucha por la independencia.</item>
+        <item>Artista comprometido políticamente, Rivera reflejó su adhesión a la causa socialista en sus propias realizaciones murales y fue uno de los fundadores del Partido Comunista Mexicano.</item>
+        <item>Militar que ejerció el cargo de presidente de México en siete ocasiones. Entre sus logros más importantes se encuentra la introducción del ferrocarril a México, ya que él siempre tuvo un pensamiento futurista así que empezó a introducir la "Tecnología de ese tiempo".</item>
+        <item>Fue un abogado y político mexicano, de origen indígena zapoteca, Presidente de México en varias ocasiones del 18 de diciembre de 1857 al 18 de julio de 1872.1 2 Se le conoce como el "Benemérito de las Américas"</item>
+        <item>Economista y político mexicano que fue presidente de México del 1 de diciembre de 1988 y al 30 de noviembre de 1994, conocido como el innombrable. Durante su sexenio, se dieron importantes cambios económicos, entre ellos firma del TLCANy la privatización masiva de empresas estatales.</item>
+        <item>Fue la mayor figura de las letras hispanoamericanas del siglo XVII. Niña prodigio, aprendió a leer y escribir a los tres años, y a los ocho escribió su primera loa.</item>
+        <item>Asumió el liderazgo del movimiento independentista tras la muerte en 1811 del cura Hidalgo (a cuya causa se había unido en 1810) y logró importantes victorias en el sur. Trató además de dar forma política a sus ideales de justicia e igualdad a través del Congreso de Chilpancingo (1813), que formuló la declaración de independencia. </item>
+    </string-array>
+
+    <string-array name="pistasnivel6">
+        <item>Conocida por haber interpretado a Dolores Valente en la serie mexicana Lola, érase una vez, adaptación de la telenovela argentina Floricienta. En 2013 protagonizó el filme mexicano Casi treinta junto a Manuel Balbi, y dirigida por Alejandro Sugich</item>
+        <item>Es un actor y modelo mexicano, originario de la capital mexicana. Participó en la telenovela El juego de la vida (2001), en donde interpretó a Juan Carlos Domínguez, un entrenador de un equipo de fútbol femenino. Alrededor de ese tiempo, comenzó una relación con Jacqueline Bracamontes. </item>
+        <item>Es una actriz y modelo mexicana. En 1997 se casó con el actor Jorge Poza, con quien trabajó en Mi generación: Amor de Verano La pareja tuvo dos hijos, Romina y Sebastián. Sin embargo se separaron en el 2008. En 2009 comenzó a salir con el actor Eduardo Santamarina, con quien se casó y ahora tienen una hija juntos, Julia.</item>
+        <item>Es actriz, modelo nacida en calera Zacatecas. ha integrado el elenco de las telenovelas, Preciosa, Rosalinda, Amor gitano, Mujeres engañadas, Rayito de luz, Amigas y rivales entre otras. Su primer protagónico le llegó con Entre el amor y el odio al lado de César Evora en el 2002</item>
+        <item>Es una actriz mexicana nacida en monterrey. Ha intervenido en numerosas telenovelas, en varias obras de teatro y en la película Cicatrices al lado de Rodrigo Abed , por la que obtuvo un premio "Diosa de Plata" como Actriz Revelación. </item>
+        <item>En 1995 comienza su carrera de comediante en el programa Otro Rollo (1995 2007).Colaboró en Adal, la Gira en el campo de la escenografía y también como actor. Dirigió escenas de Diseñador Ambos Sexos.Dentro de Otro Rollo, actúo en El Gran Carnal 1 y 2 y en las distintas versiones de La Pesera del Amor</item>
+        <item>Conocido por sus personajes en las telenovelas La fea más bella y Por ella soy Eva. Actualmente está casado con la modelo y conductora Heidi Balvanera. En 2011 gana la categoría "Qué actorazo" en los Premios Juventud.</item>
+        <item>En el año 2002 participa en su primer largometraje como protagonista: Amar te duele, dirigida por Fernando Sariñana y en donde la joven actriz comparte créditos con Luis Fernando Peña y Alfonso Herrera</item>
+        <item>Su primer papel protagónico fue al lado de Thalía en la telenovela María la del barrio, dando vida a Luis Fernando de la Vega. En 1997 protagonizó Esmeralda junto con Leticia Calderón. fue el protagonista de la telenovela Soy tu dueña donde comparte créditos con Lucero</item>
+        <item>Nació en Cosamaloapan Veracruz, México. El 19 de septiembre de 1999 contrajo matrimonio civil y el 22 de enero de 2000 boda religiosa con la actriz Itatí Cantoral1 y tuvieron a sus hijos gemelos José Eduardo y Roberto Miguel, el matrimonio terminó en divorcio en 2004.Está casado con la actriz Mayrín Villanueva </item>
+        <item>A la edad de 17 años participó en el concurso “Señorita Sinaloa”, logrando ingresar más tarde al Centro de Educación Artística de Televisa. En años recientes intervino en Zacatillo, La fea mas bella, un lugar en tu corazón y Por ella soy Eva.</item>
+        <item>Nació en la ciudad de mexico. Es un conductor de espectáculos mexicano conocido principalmente por ser conductor del programa de espectáculos "Ventaneando" de TV Azteca. </item>
+        <item>Es una actriz, conductora y comediante mexicana, mejor conocida por su personaje Deyanira Rubí, por trabajar junto a Adal Ramones en el late show televisivo Otro rollo y por su participación en el programa matutino Hoy.</item>
+        <item>Conductor, productor, locutor, "escritor" y conferencista mexicano. Ha sido productor y conductor de televisión de programas como "Otro Rollo" y "Está Cañón".T ambién Productor y Locutor de los programas de radio "Que Pex" y "Despierta" por EXA FM </item>
+        <item>Es un actor, cantante y empresario mexicano, de Puerto Vallarta, Jalisco. Hizo su debut en la telenovela Clase 406 en el año 2002 en donde interpreta el tema musical "Jamás",5 actuando después en Corazones al límite co-protagonizando con Sherlyn y Sara Maldonad </item>
+    </string-array>
+
+    <string-array name="pistasnivel7">
+        <item> Compositor mexicano de baladas, rancheras, pop latino y música regional mexicana, así como productor discográfico y actor. Tiene el sobrenombre de El Divo de Juárez. </item>
+        <item> Empresaria y productora méxico-estadounidense.Mejor conocida como la diva de la banda. Fallecio el 9 de diciembre del 2012 en un accidente aéreo </item>
+        <item> Coreógrafa y productora, una de las personalidades más reconocidas y de mayor trayectoria del género grupero. Grandes éxitos que se han convertido ya en clásicos de la onda grupera, como «Bandido», «Loca», «Lo busqué» y </item>
+        <item> También conocido como El Gallo de Oro, fue un cantante mexicano del género banda, norteño. Sus éxitos incluyen Gallo de Oro, Como Me Duele, Vete Ya, La Más Deseada, Y Se Parece A Ti, Nada, Ebrio De Amor </item>
+        <item> Compositora, empresaria y actriz mexicana. Posee también la nacionalidad estadounidense. En 2009 firmó un contrato con Sony Music, la cual era dirigida entonces por su esposo Tommy Mottola </item>
+        <item> Compositor y actor mexicano. También es conocido por el público bajo los alias de «Rey del Jaripeo».A lo largo de su carrera musical ha sido acreedor de cinco premios Grammy y siete premios Grammy Latinos. </item>
+        <item> Soprano y actriz mexicana nacida en Monclova, Coahuila. Estudió Opera en Florencia, Italia, finalizando posteriormente la carrera de Concertista en la Escuela Superior de Música en la Ciudad de México. Actualmente es conductora de un programa llamado Susana Adicción</item>
+        <item> Participo en el programa de televisión "Chiquilladas", fue galardonado a el Premio de la academia mexicana de cinematografía "Ariel" en la categoría the "Mejor Composición Original para Películas" por "Sexo, Pudor y Lágrimas". Participó como juez del programa "La Voz... México"  </item>
+        <item> Ademas de cantante actriz y presentadora mexicana que, tras haber iniciado como solista en 1978, se ha mantenido vigente en el espectáculo latino durante las últimas tres décadas. Llama la atención por sus exóticos peidos que presenta </item>
+        <item> Tambien apodado "El rey del pop latino". Con una trayectoria de 36 años. Algunos clásicos como: "Todo Se Derrumbó", "Al Final", "Insoportablemente Bella", "Tengo Mucho Que Aprender De Ti", "Si este tiempo pudiera volver", "Detenedla ya", "Pobre Diablo", "La chica de humo", </item>
+        <item> Cantautor, músico, compositor y productor musical mexicano ganador de un Grammy. Ha escrito más de 400 canciones, de las cuales más de 50 han alcanzado fama internacional, como Somos novios y Esta tarde vi llover. </item>
+        <item> Es referido en el mundo del espectáculo como El Príncipe de la Canción. Es considerado uno de los cantantes más talentosos, reconocido por su privilegiada voz. En cincuenta años de carrera musical, su interpretación y su estilo han influido sobre numerosos artistas del ámbito mundial </item>
+        <item> Ganadora en la categoría "Artista Revelación" en losPremios MTV. Nominada a los Premios Grammy y Premios Grammy Latinos por su álbum Mediocre Hija del cineasta mexicano, Fernando Sariñana . Participó en la película Amarte Duele y Niñas Mal. </item>
+        <item> Es considerado una leyenda de la música popular mexicana. Actuó en 167 películas y su discografía ha sobrepasado los 160 álbumes con ventas de más de 25 millones de copias. Es reconocido como "El Charro de México". Entre sus caciones mas populares esta "triste recuerdo" "Gabino Barrera" y "el hijo desobediente"</item>
+        <item> Además bailarina de ballet, claqué y jazz, pintora y actriz, reconocida por participar en diversas telenovelas, series y programas de televisión. Perteneciente a una legendaria dinastía artística. Hija del cantante de rock and roll y actor mexicano Enrique Guzmán y de la primera actriz mexicana Silvia Pinal.</item>
+    </string-array>
+
+    <string-array name="pistasnivel8">
+        <item>Hijo presumido de un millonario cuya palabra favorita es “naco”, ha participado en programas como "El mundo de Luis de Alba" y "La Escuelta VIP" </item>
+        <item>En marzo de 2004, el programa de televisión No Manches se estrenó en el canal 5 de Televisa, iniciado por el mismo. Era un programa familiar, con chistes, personajes e invitados musicales, con invitados internacionales como Robbie Williams, Shakira, Hanson y Thalía, entre otros.</item>
+        <item>Es la típica madre sobre protectora del chino ,albertano y la rosa. Madre mexicana de 55 años, dicharachera, se mete en asuntos de otros, chantajista y autoritaria. Día a día busca como estirar el dinero para sacar adelante a su familia e inventa todo tipo de empresas, embaucando a todo el que se deja.</item>
+        <item>Posee un peculiar estilo para hacer muecas, las acompaña revolviéndose el pelo de la cabeza, y, con movimientos del cuerpo y tonos de voces diferentes, simula los personajes de sus chistes. su entrada comunmente es yo soy... reir es mi profesion soy un comediante, artista, cantante si solo consigo hacerme su amigo, yo soy como soy...</item>
+        <item>Es el segundo hijo de doña Lucha, quien le ha consentido hasta el cansancio, volviéndolo una persona inmadura que no puede hacerse cargo de si mismo su estilo es definido como “una mezcla entre Rigo Tovar y uno de los temerarios” </item>
+        <item>Priginaria de San José de los Burros, por su condición indígena y pobre es frecuentemente subestimada y humillada por los círculos elitistas. A menudo se encuentra con personas que tratan de aprovecharse de su buena fe y de su ignorancia sobre la vida en la ciudad.</item>
+        <item>Famoso por sus chistes para adultos. Sus rutinas se caracterizan por su alto contenido de reiteradas referencias sexuales pornográficas, con un toque humorístico de misoginia, las cuales son relatadas como una anécdota personal.</item>
+        <item>Tiene la personalidad de una chiquilla de 15 años que siente admiración por un ídolo musical. Su amor platónico es César Costa, por eso es presidenta del Club de fans de Cesarín. También asistió a la escuelita de “La carabina de Ambrosio”.</item>
+        <item>Su trayectoria le ha dado la oportunidad de tener su propio programa de televison en Telehit que se ha convertido en uno de los de mayor rating en el canal, es fmoso por su frase “Ay weeeeeeeee”</item>
+        <item>Se hizo famoso tras ganar el casting al que él y otros cinco comediantes asistieron para darle vida al nuevo personaje de Televisa Deportes, desde entonces ha aparecido en la mayori de programas especiales del mundial y las olimpiadas. La persona detrás del personaje es Edson Zúñiga.</item>
+        <item>Es un niño sumamente engreído, creído y manipulador, reclama toda la atención para él y no escatima en nada para lograrlo. A veces sale lastimado o golpeado en las peleas con el Chavo y logra que su mamá lo defienda siempre, pero ella se pasa la vida golpeando a Don Ramón</item>
+        <item>Ha llegado a tener su propio canal de televisión por cable llamado "Ponchivisión" que el 15 de mayo de 2004 cerró transmisiones. En 2010 hizo una inesperada aparición en Televisa, en el programa Primero El Mundial, con uno de sus personajes principales "Ponchito",  lado de Brozo y Carlos Loret de Mola.</item>
+        <item>Es conductor del programa de radio ¡Ya Párate!. Trabajó como comediante de Televisa y como conductor en los programas Toma Libre, Incógnito y TurNocturno entre otros. En el año 2009 participó en el programa Hazme reír y serás millonario, junto a Mario Cuevas "La Garra" e Ileana</item>
+        <item>Es reconocido por su popular forma de imitar el claxon de un Volkswagen Sedan, además ser el autor de populares chistes como lo son: el chavo fresa que fue a la iglesia, el traje hingon, los gangosos, entre otros. Actualmente se le puede ver en el video de Los Tucanes de Tijuana, llamado: "El Tio Borrachales". Como el protagonista del mismo.</item>
+        <item>Durante la década de los sesenta y setenta se caracterizó por ser ícono de la comedia mexicana, junto a Enrique Cuenca formó la pareja cómica Los Polivoces, cuyo programa del mismo nombre fue muy popular en la televisión mexicana, participo en la comedia de jorge ortiz de pinedo una familia e diez como el abuelo arnoldo</item>
+    </string-array>
+
+    <string-array name="pistasnivel9">
+        <item>También uso los nombres de FurorY The Winner, quitó la cabellera al alebrije y la máscara a super caló</item>
+        <item>Su movimiento preferido era el abrazo de oso y la plancha .fue el segundo luchador en poseer una serie de cómics basados en su personaje.</item>
+        <item>Su maestro fue el luchador Cuauhtémoc "Diablo" Velascole, le quitó la máscara a villano lll y ha último guerrero y ha talismán</item>
+        <item>Militó en la lucha de estados unidos la WWE obtuvo la máscara de misterioso, Mr cóndor , el bandido y le ganó el título a Chris Jericho</item>
+        <item>También se le conoce como Rencor Latino, le quitó la máscara al hijo del gladiador, Apolo chino y a plata . El perdió su máscara con La máscara</item>
+        <item>Perdió su máscara con blue demon. El le quitó la máscara a los hermanos muerte, Guerrero negro y Mr sangre, su movimiento preferido era buceo cabezazo</item>
+        <item>conocido como La Leyenda Azul, participo en los filmes como el mundo de los muertos, las momias de Guanajuato y la mafia amarilla</item>
+        <item>Otro nombre artístico con el que se le conoció fue Santa Esmeralda y le quitó la máscara al cibernético, el hijo del espectro y Akuma</item>
+        <item>También conocido tambien como Dragón Dorado, le quitó la máscara al huracán Ramírez, black Shadow y a coco azul</item>
+        <item>Su maestro fue black man , ha este le quitó la máscara , al igual que ha lizmark JR y Luzbel</item>
+        <item>También uso el nombre Astro Boy y Sin Cara, su movimiento final casi siempre era el helicóptero, le quito la cabellera al negro casas y la mascara a Black warrior y al hijo del diablo</item>
+        <item>Le ha quitado la máscara ha máscara año 2000 jr, Drago y le ha quitado la cabellera a Rey misterio , pierroth y perdió su máscara con psycho clown</item>
+        <item>Participo en los filmes de las momias de Guanajuato y la llave mortal, le quitó la máscara a Venom , barón escarlata y el halcón</item>
+        <item>Le apodan El Tigre Blanco, su movimiento preferido es la huracarana</item>
+        <item>Se corono como el primer Campeon Mundial de peso ligero de la universal Wrestling Association (UWA) al derrotar al Japones Shibata. Le quitaron su máscara la leyenda Blue Demon</item>
+    </string-array>
+</resources>
